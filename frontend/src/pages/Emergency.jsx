@@ -129,7 +129,7 @@ const Emergency = () => {
                 <h3 style={{ color: '#991b1b', marginBottom: '0.5rem' }}>National Helplines</h3>
                 <p style={{ color: '#b91c1c' }}>If you are in immediate danger, please call emergency services or a national suicide prevention lifeline.</p>
                 <div style={{ marginTop: '1rem', fontWeight: 'bold' }}>
-                    Lifeline: 988 (USA) | 112 (India) | 999 (UK)
+                    Lifeline: 112 (Integrated Helpline) | 100 (Police Helpline) | 108 (Ambulance)
                 </div>
             </div>
         </div>
